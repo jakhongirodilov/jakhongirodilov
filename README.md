@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakhongir Odilov!</h1>
-<h5 align="center">A dedicated software engineering BSc student specializing in Python and Django. With a passion for web development, I bring a solid foundation in software engineering principles and a drive to create elegant solutions. Eager to contribute as a Python Django developer, I am committed to continuous learning and delivering professional, user-centric web applications.</h5>
+<h5 align="center">A dedicated Software Engineering BSc student specializing Backend Engineering. With a passion for web development, I bring a solid foundation in software engineering principles and a drive to create elegant solutions. Eager to contribute as a Python Django developer, I am committed to continuous learning and delivering professional, user-centric web applications.</h5><br>
 
 
 - Contact me: <br>
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/jakhongirodilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakhongirodilov" height="30" width="40"/></a>
-<a href="https://t.me/azimjon0404" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt="telegram group"/></a>
+<a href="https://t.me/jakhongir_odilov" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="35" alt="telegram group"/></a>
 <a href="https://www.hackerrank.com/jahongirodilov01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahongirodilov01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jakhongirodilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jakhongirodilov" height="30" width="40" /></a>
 </p>
@@ -33,7 +33,6 @@
   
 ---
 <h3 align="left">Github Statistics:</h3><br>
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jakhongirodilov&theme=dark)](https://git.io/streak-stats)
 
