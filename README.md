@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakhongir Odilov!</h1>
-<h5 align="center">A dedicated Software Engineering BSc student specializing Backend Engineering. With a passion for web development, I bring a solid foundation in software engineering principles and a drive to create elegant solutions. Eager to contribute as a Python Django developer, I am committed to continuous learning and delivering professional, user-centric web applications.</h5><br>
+<h5 align="center">A dedicated Software Engineering BSc student specializing in Backend Engineering. With a passion for web development, I bring a solid foundation in software engineering principles and a drive to create elegant solutions. Eager to contribute as a Python Django developer, I am committed to continuous learning and delivering professional, user-centric web applications.</h5><br>
 
 
 - Contact me: <br>
