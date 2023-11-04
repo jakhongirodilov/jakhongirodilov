@@ -36,7 +36,7 @@
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | C2                                                                        |
+| English       | C1                                                                        |
 | Russian       | A2                                                                        |
 | Uzbek         | Native language                                                           |
   
