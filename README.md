@@ -37,8 +37,8 @@
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | C2                                                                        |
-| German        | B1                                                                        |
-| Czech         | Native language                                                           |
+| Russian       | A2                                                                        |
+| Uzbek         | Native language                                                           |
   
 ---
 <h3 align="left">Github Statistics:</h3><br>
